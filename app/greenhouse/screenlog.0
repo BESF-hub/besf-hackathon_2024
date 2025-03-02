@@ -314638,3 +314638,233 @@ Query results:
 현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
 이력 센서 데이터 샘플: []
 127.0.0.1 - - [03/Mar/2025 00:36:54] "GET /sensor-data HTTP/1.1" 200 -
+Status 요청 받음!
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:37:09] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:37:09] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:37:15] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:37:15] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:37:24] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:37:24] "GET /sensor-data HTTP/1.1" 200 -
+Status 요청 받음!
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:37:39] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:37:39] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:37:54] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:37:54] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:08] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:08] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:09] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:09] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:24] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:24] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:26] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:26] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:39] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:39] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:46] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:46] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:54] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:54] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:38:56] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:38:56] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:09] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:09] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:15] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:15] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:24] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:24] "GET /sensor-data HTTP/1.1" 200 -
+Status 요청 받음!
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:26] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:26] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:39] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:39] "GET /sensor-data HTTP/1.1" 200 -
+Status 요청 받음!
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:46] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:46] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:39:56] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:39:56] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:40:15] "GET /status HTTP/1.1" 200 -
+Status 요청 받음!
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:40:15] "GET /sensor-data HTTP/1.1" 200 -
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:40:15] "GET /status HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:40:15] "GET /sensor-data HTTP/1.1" 200 -
+센서 데이터 요청 받음!
+쿼리 실행 시작...
+Status 요청 받음!
+Query results:
+응답 데이터: {'천창1': {'value': 'OFF', 'type': None}, '천창2': {'value': 'OFF', 'type': None}, '차광1': {'value': 'OFF', 'type': None}, '차광2': {'value': 'OFF', 'type': None}, '보온1': {'value': 'OFF', 'type': None}, '측커텐': {'value': 'OFF', 'type': None}, '유동팬': False, '송풍기': False}
+127.0.0.1 - - [03/Mar/2025 00:40:26] "GET /status HTTP/1.1" 200 -
+쿼리 실행 완료
+현재 센서 데이터: {'temperature': 0.0, 'humidity': 0.0, 'co2': 0.0, 'rain': 0.0, 'solar_radiation': 0.0}
+이력 센서 데이터 샘플: []
+127.0.0.1 - - [03/Mar/2025 00:40:26] "GET /sensor-data HTTP/1.1" 200 -
